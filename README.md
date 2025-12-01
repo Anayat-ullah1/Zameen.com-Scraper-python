@@ -1,5 +1,5 @@
 # Zameen.com-Scraper-python
-Zameen.com Scraper python-based 
+Zameen.com Scraper python-based - a lightweight Python version of my original scraper developed using C#.
 
 Usage:
 python zameen_scraper_python.py \
